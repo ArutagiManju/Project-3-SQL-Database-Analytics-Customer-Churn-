@@ -27,17 +27,21 @@ Data Link: Kaggle - Telco Customer Churn
 1. Create database ‘churn_analysis’.
 2. Import CSV files as tables (create those table from existing dataset only)
 3. Verify data import
+   
 **Phase 2: Data Exploration (2 hours)**
 1. Understand table structures:
 2. Check for NULL values.
 3. Identify churn distribution
+   
 **Phase 3: Churn Metric Calculations**
 1. Overall churn rate
 2. Churn by tenure cohorts
 3. Churn by contract type
+   
 **Phase 4: Cohort & RFM Analysis**
 1. Customer lifetime value (CLV)
 2. RFM Segmentation (Recency, Frequency, Monetary)
+   
 **Phase 5: Insights & Reporting (2 hours)**
 1. Create summary views for reporting
 2. Generate final insight queries (top reasons for churn, vulnerable segments, etc.)
